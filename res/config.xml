@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><config>
+	<serveur>
+		<ip>localhost</ip>
+		<port>6500</port>
+	</serveur>
+	<theme>
+		<nom>Night</nom>
+		<pleinEcran>false</pleinEcran>
+	</theme>
+	<application>
+		<mode>serveur</mode>
+	</application>
+</config>
